@@ -1,0 +1,15 @@
+{
+    "Name" : "AICreator",
+    "Version" : "0.1.0",
+    "CompatVersion" : "0.1.0",
+    "Vendor" : "Shantanu",
+    "Copyright" : "(C) 2026",
+    "License" : "MIT",
+    "Category" : "AI Tools",
+    "Description" : "Gemini AI Code & Debug Assistant for Qt Creator",
+    "Url" : "https://github.com",
+    "Dependencies" : [
+        { "Name" : "Core", "Version" : "4.15.0" },
+        { "Name" : "TextEditor", "Version" : "4.15.0" }
+    ]
+}
