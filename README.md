@@ -1,0 +1,1 @@
+# qt-creator-ai-plugin-in-command-line
